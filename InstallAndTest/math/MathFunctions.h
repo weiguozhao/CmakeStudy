@@ -1,0 +1,10 @@
+//
+// Created by Weiguo on 2020/3/7.
+//
+
+#ifndef SINGLEDIRECTORYMULTIFILES__MATHFUNCTIONS_H_
+#define SINGLEDIRECTORYMULTIFILES__MATHFUNCTIONS_H_
+
+double power(double base, int exponent);
+
+#endif //SINGLEDIRECTORYMULTIFILES__MATHFUNCTIONS_H_

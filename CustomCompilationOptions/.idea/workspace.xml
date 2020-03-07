@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CustomCompilationOptions" targetName="CustomCompilationOptions" />
+      <config projectName="CustomCompilationOptions" targetName="MathFunctions" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbf6d8a1-694e-4570-9323-48dffa298a9d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1YmbG29ffkB6klTcQozm7aOLgbP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="CMake Application.CustomCompilationOptions">
+    <configuration name="CustomCompilationOptions" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="2 2" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CustomCompilationOptions" TARGET_NAME="CustomCompilationOptions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CustomCompilationOptions" RUN_TARGET_NAME="CustomCompilationOptions">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathFunctions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CustomCompilationOptions" TARGET_NAME="MathFunctions" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.CustomCompilationOptions" />
+      <item itemvalue="CMake Application.MathFunctions" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbf6d8a1-694e-4570-9323-48dffa298a9d" name="Default Changelist" comment="" />
+      <created>1583550617985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583550617985</updated>
+      <workItem from="1583550619388" duration="2504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583552076706">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="206" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.23.1397.877/-241.-1057.1920.1057@43.23.1397.877" timestamp="1583552076706" />
+    <state x="479" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583551326142">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="479" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/43.23.1397.877/-241.-1057.1920.1057@43.23.1397.877" timestamp="1583551326142" />
+    <state width="1355" height="276" key="GridCell.Tab.0.bottom" timestamp="1583553161768">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="276" key="GridCell.Tab.0.bottom/43.23.1397.877/-241.-1057.1920.1057@43.23.1397.877" timestamp="1583553161768" />
+    <state width="1355" height="276" key="GridCell.Tab.0.center" timestamp="1583553161767">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="276" key="GridCell.Tab.0.center/43.23.1397.877/-241.-1057.1920.1057@43.23.1397.877" timestamp="1583553161767" />
+    <state width="1355" height="276" key="GridCell.Tab.0.left" timestamp="1583553161766">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="276" key="GridCell.Tab.0.left/43.23.1397.877/-241.-1057.1920.1057@43.23.1397.877" timestamp="1583553161766" />
+    <state width="1355" height="276" key="GridCell.Tab.0.right" timestamp="1583553161768">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="276" key="GridCell.Tab.0.right/43.23.1397.877/-241.-1057.1920.1057@43.23.1397.877" timestamp="1583553161768" />
+    <state width="1355" height="276" key="GridCell.Tab.1.bottom" timestamp="1583553161770">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="276" key="GridCell.Tab.1.bottom/43.23.1397.877/-241.-1057.1920.1057@43.23.1397.877" timestamp="1583553161770" />
+    <state width="1355" height="276" key="GridCell.Tab.1.center" timestamp="1583553161769">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="276" key="GridCell.Tab.1.center/43.23.1397.877/-241.-1057.1920.1057@43.23.1397.877" timestamp="1583553161769" />
+    <state width="1355" height="276" key="GridCell.Tab.1.left" timestamp="1583553161768">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="276" key="GridCell.Tab.1.left/43.23.1397.877/-241.-1057.1920.1057@43.23.1397.877" timestamp="1583553161768" />
+    <state width="1355" height="276" key="GridCell.Tab.1.right" timestamp="1583553161769">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="276" key="GridCell.Tab.1.right/43.23.1397.877/-241.-1057.1920.1057@43.23.1397.877" timestamp="1583553161769" />
+    <state x="406" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1583553000728">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="406" y="213" width="670" height="676" key="search.everywhere.popup/43.23.1397.877/-241.-1057.1920.1057@43.23.1397.877" timestamp="1583553000728" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
